@@ -1,0 +1,24 @@
+body{
+  margin:10px;
+  padding:0px;
+  max-width:auto;
+  }
+
+div{
+  max-width:inherit;
+  text-align:center;
+  }
+
+img{
+  width:90%;
+  }
+
+
+.dd{
+background-color:#f1f1f1;
+text-align:center;
+  }
+
+
+
+
